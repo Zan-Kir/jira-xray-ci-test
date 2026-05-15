@@ -1,3 +1,4 @@
+import pytest
 from calculator import soma, subtrai
 
 @pytest.mark.xray(test_key="QTS-6")
